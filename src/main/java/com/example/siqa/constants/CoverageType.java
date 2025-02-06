@@ -1,0 +1,28 @@
+package com.example.siqa.constants;
+
+public enum CoverageType {
+    LIFE,
+    AUTO,
+    HEALTH,
+    TRAVEL,
+    HOME,
+    MOTOR,
+    CRITICAL_ILLNESS,
+    DISABILITY,
+    LIABILITY,
+    PET,
+    PUBLIC_LIABILITY_COVERAGE,
+    PERSONAL_INJURY_PROTECTION,
+    ACCIDENT,
+    BUSINESS,
+    COMPREHENSIVE_COVERAGE,
+    LANDLORD,
+    LONG_TERM_CARE,
+    MEDICAL_PAYMENTS_COVERAGE,
+    PROPERTY,
+    CHILD_PLAN,
+    COLLISION_COVERAGE,
+    CYBER,
+    DENTAL_AND_VISION,
+
+    }
